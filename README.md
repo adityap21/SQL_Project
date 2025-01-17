@@ -1,4 +1,4 @@
-# SQL_Project
+# SQL_Music_Store_Project
 
 🎶 Music Store Database Analysis 🎵
 This project explores a comprehensive database of a music store, using SQL to uncover insights into customer behavior, revenue trends, and artist popularity. Key highlights include:
